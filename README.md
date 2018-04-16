@@ -1,0 +1,2 @@
+# core
+XNotes Core
